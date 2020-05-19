@@ -1,0 +1,3 @@
+function move() {
+	platform.move();
+}
